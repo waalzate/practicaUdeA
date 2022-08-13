@@ -4,3 +4,5 @@ https://medium.com/@dsaldarriaga/git-github-qu%C3%A9-son-y-c%C3%B3mo-se-usan-ae2
 
 **En esta otra página esta la configuración del email en git**
 https://linuxize.com/post/how-to-configure-git-username-and-email/
+
+** EStoy practicando git**
