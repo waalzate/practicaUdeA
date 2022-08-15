@@ -8,3 +8,5 @@ https://linuxize.com/post/how-to-configure-git-username-and-email/
 
 ** Cuando no te funciones el push para subir a git hub**
 git push -f origin master
+
+En esta página encuentro información  importante.
