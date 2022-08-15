@@ -16,4 +16,6 @@ gid add Nombredelarchivo
 
 En esta página encuentro información  importante.
 
+**Para agregar información en la rama boton_verde: git push origin boton_verde**
+
 
