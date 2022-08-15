@@ -18,4 +18,12 @@ En esta página encuentro información  importante.
 
 **Para agregar información en la rama boton_verde: git push origin boton_verde**
 
+Para cambiar de rama: 
+git checkout main
+git checkout boton_verde 
+Así en general se debe hacer el cambio: 
+
+git checkout nombredelarama
+
+
 
