@@ -9,4 +9,11 @@ https://linuxize.com/post/how-to-configure-git-username-and-email/
 ** Cuando no te funciones el push para subir a git hub**
 git push -f origin master
 
+** Para enviar al sevidor local**
+git add .
+** Para enviar solo el archivo local**
+gid add Nombredelarchivo
+
 En esta página encuentro información  importante.
+
+
